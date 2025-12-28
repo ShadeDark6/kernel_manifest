@@ -40,7 +40,7 @@ $ mkdir WORKSPACE
 $ cd WORKSPACE
 
 # Install Repo in the created directory
-$ repo init -u https://github.com/pa-gr/kernel_manifest -b marble-kernel
+$ repo init -u https://github.com/ShadeDark6/kernel_manifest -b marble-kernel
 ```
 
 ### Downloading the source tree ###
